@@ -1,0 +1,1 @@
+select * from users WHERE City LIKE '_a%';

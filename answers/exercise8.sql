@@ -1,0 +1,1 @@
+select * from users WHERE CreditHours NOT BETWEEN 10 and 20;

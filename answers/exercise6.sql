@@ -1,0 +1,1 @@
+select * from users WHERE City NOT IN ('Sint Maarten' , 'Haiti');
